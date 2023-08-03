@@ -1,4 +1,5 @@
-# honeytiper
+# 꿀TIPer
+#### 누구나 TIPer(강사)가되어 자신의 취미와 재능 즉, 꿀TIP(강의)을 공유하는 플랫폼
 
 👀 [꿀TIPer 홈페이지 바로가기](http://www.ggultiper.kro.kr)
 
