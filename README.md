@@ -1,6 +1,6 @@
 # 꿀TIPer
 #### [ 누구나 TIPer(강사)가되어 자신의 취미와 재능 즉, 꿀TIP(강의)을 공유하는 플랫폼 ]
-</br></br>
+</br>
 👀 [꿀TIPer 홈페이지 바로가기](http://www.ggultiper.kro.kr)</br>
 📜 [꿀TIPer 메뉴얼보기](https://docs.google.com/document/d/1Lt5TGYBhB_J1F3K9iqZQAzM4tyz7EohjdcmUxYhWr80/edit#heading=h.95wi6cewj5yt)
 </br></br>
